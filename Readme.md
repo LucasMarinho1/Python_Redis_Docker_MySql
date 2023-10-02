@@ -1,6 +1,6 @@
-# Projeto Login Centralizado
+# Projeto cadastro simples de Usuario
 
-Neste projeto abordo a criacao de uma api para centralizar a criacao de Login de usuarios.
+Neste projeto abordo a criacao de uma api para centralizar a criacao de usuarios de forma simples.
 
 ## Tecnologias Utilizadas
 
